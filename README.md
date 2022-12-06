@@ -18,7 +18,7 @@ Requisitos obrigatórios:
 
 
 Video de apresentação:
-Teste do sistema e validação dos requisitos:   
+Teste do sistema e validação dos requisitos: https://youtu.be/9H8E-GkuU3M  
 
 Instalação:
 Baixar os arquivos do projeto e executar o arquivo login.py para abrir o programa. É necessário instalar os seguintes módulos:
@@ -31,9 +31,13 @@ pip install sys
 
 Integrantes Dev Team 03:
 Alexandre Henrique Fernandes Nolla - Matrícula: 202208568921
+
 Maria Carolina Knudsen Boabaid - Matrícula: 202208494331
+
 Guilherme Gatti Marinho - Matrícula: 202209312351
+
 Rebecca Cunha - Matrícula: 202208379753
+
 Ramon Barros Correa - Matrícula: 202208939635
 
 
