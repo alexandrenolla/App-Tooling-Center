@@ -6,6 +6,7 @@ Curso: Desenvolvimento Full Stack - Estácio
 Sobre o trabalho:
 Desenvolver uma aplicação desktop para Central de Ferramentaria.
 
+
 Requisitos obrigatórios:
 
 1. Login com autenticação de usuário
@@ -20,16 +21,23 @@ Requisitos obrigatórios:
 Video de apresentação:
 Teste do sistema e validação dos requisitos: https://youtu.be/9H8E-GkuU3M  
 
+
 Instalação:
 Baixar os arquivos do projeto e executar o arquivo login.py para abrir o programa. É necessário instalar os seguintes módulos:
 
 pip install tkinter
+
 pip install tkinter.ttk
+
 pip install sqlite3
+
 pip install os
+
 pip install sys
 
+
 Integrantes Dev Team 03:
+
 Alexandre Henrique Fernandes Nolla - Matrícula: 202208568921
 
 Maria Carolina Knudsen Boabaid - Matrícula: 202208494331
