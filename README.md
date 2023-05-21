@@ -1,6 +1,6 @@
 <p align="center">
 
- ## Project
+ ## 💻 Project
 
 Desktop application for tool management and booking.
 
