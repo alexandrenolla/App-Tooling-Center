@@ -17,7 +17,7 @@ List of technologies used in the project:
 
 ## Mandatory Requirements:
 
-1. login with user authentication
+1. Login with user authentication
 2. Admin with power to Enroll/Delete Tools
 3. Admin with power to register/delete technicians
 4. Validation requirements of the Registration fields
