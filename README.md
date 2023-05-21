@@ -1,25 +1,33 @@
-# Missão-Certificação-Mundo1-Estacio-DevTeam03-2022.3
-Aplicação Desktop - Central de Ferramentaria
+<p align="center">
 
-Curso: Desenvolvimento Full Stack - Estácio
+ ## Project
 
-Sobre o trabalho:
-Desenvolver uma aplicação desktop para Central de Ferramentaria.
+Desktop application for tool management and booking.
+
+The project was developed as the final project of the first semester of the undergraduate degree in Full Stack development.
+</p>
+
+## Technologies
+
+List of technologies used in the project:
+
+- [Python](https://www.python.org/)
+- [Tkinter - GUI](https://docs.python.org/3/library/tkinter.html)
+- [SQLite](https://www.sqlite.org/index.html)
+
+## Mandatory Requirements:
+
+1. login with user authentication
+2. Admin with power to Enroll/Delete Tools
+3. Admin with power to register/delete technicians
+4. Validation requirements of the Registration fields
+5. Technician with the power of Tool Consultation
+6. Full-featured Graphical Interface
+7. Field Validation and Registration Requirements
 
 
-Requisitos obrigatórios:
-
-1. Login com autenticação de usuário
-2. Admin com poder de Cadastro/Exclusão de Ferramentas
-3. Admin com poder de Cadastro/Exclusão de Técnicos
-4. Requisitos de validação dos campos de Cadastro
-5. Técnico com poder de Consulta de Ferramentas
-6. Inteface gráfica com todas as funcionalidades
-7. Requisitos de validação dos campos e Cadastro
-
-
-Instalação:
-Baixar os arquivos do projeto e executar o arquivo login.py para abrir o programa. É necessário instalar os seguintes módulos:
+## Running the project
+Download the project files and install the following modules:
 
 pip install tkinter
 
@@ -31,15 +39,5 @@ pip install os
 
 pip install sys
 
+- Run the login.py file to open the program.
 
-Integrantes Dev Team 03:
-
-Alexandre Henrique Fernandes Nolla - Matrícula: 202208568921
-
-Maria Carolina Knudsen Boabaid - Matrícula: 202208494331
-
-
-Tecnologias utilizadas:
-Python
-Tkinter (GUI)
-SQlite (Banco de dados)
