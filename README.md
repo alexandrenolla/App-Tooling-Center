@@ -41,3 +41,11 @@ pip install sys
 
 - Run the login.py file to open the program.
 
+- technician's test login:
+- username:  MCKB
+- password: 5458
+
+- admin test login:
+- username: AHFN
+- password: 5454
+
