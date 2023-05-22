@@ -27,7 +27,7 @@ List of technologies used in the project:
 
 
 ## Running the project
-Download the project files and install the following modules:
+Download the project files and install the following modules by running the commands:
 
 pip install tkinter
 
