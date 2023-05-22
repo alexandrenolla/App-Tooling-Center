@@ -39,14 +39,16 @@ pip install os
 
 pip install sys
 
-
+<br>
 - Run the login.py file to open the program.
 
 1. Technician's test login:
 username:  MCKB
+<br>
 password: 5458
 
 2. Admin test login:
 username: AHFN
+<br>
 password: 5454
 
