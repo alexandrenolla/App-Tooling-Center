@@ -19,7 +19,7 @@ List of technologies used in the project:
 
 1. Login with user authentication
 2. Admin with power to Enroll/Delete Tools
-3. Admin with power to register/delete technicians
+3. Admin with power to Register/Delete technicians
 4. Validation requirements of the Registration fields
 5. Technician with the power of Tool Consultation
 6. Full-featured Graphical Interface
