@@ -2,7 +2,9 @@
 
  ## 💻 Project
 
-Desktop application for tool management and booking.
+Desktop application that aims to manage a warehouse. Registration of technicians and tools, and consultation or removal of the registered ones.
+Graphical interface created with Tkinter and SQLite database integration.
+User and password validation for both login and registration, and different functionalities available for each type of logged in user (technician or admin).
 
 The project was developed as the final project of the first semester of the undergraduate degree in Full Stack development.
 </p>
