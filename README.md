@@ -2,7 +2,7 @@
 
  ## 💻 Project
 
-Desktop application that aims to manage a warehouse. Registration of technicians and tools, and consultation or removal of the registered ones.
+Desktop application that aims to manage a warehouse. Registration of technicians and tools with validations, and consultation or removal of the registered ones.
 Graphical interface created with Tkinter and SQLite database integration.
 User and password validation for both login and registration, and different functionalities available for each type of logged in user (technician or admin).
 
@@ -29,20 +29,7 @@ List of technologies used in the project:
 
 
 ## Running the project
-Download the project files and install the following modules by running the commands:
-
-pip install tkinter
-
-pip install tkinter.ttk
-
-pip install sqlite3
-
-pip install os
-
-pip install sys
-
---------------------------------------------------
-- Run the login.py file to open the program.
+Download the project files and run the login.py to open the program.
 
 1. Technician's test login:
 - username:  MCKB
